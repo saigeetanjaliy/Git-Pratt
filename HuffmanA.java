@@ -10,7 +10,7 @@ class Node implements Comparable{
   int symbol;
   int frequency;
   public Node(Node l, Node r, int s, int f){
-    left = l; right = r; symbol = s; frequency = f;
+    left = a; right = b; symbol = c; frequency = d;
   }
   public int compareTo(Object obj){
    Node n = (Node)obj;
