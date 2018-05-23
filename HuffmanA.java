@@ -13,8 +13,8 @@ class Node implements Comparable{
     left = a; right = b; symbol = c; frequency = d;
   }
   public int compareTo(Object obj){
-   Node n = (Node)obj;
-   return frequency - n.frequency;
+   Node nd = (Node)obj;
+   return frequency - nd.frequency;
   }
 }
 
