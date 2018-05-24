@@ -7,7 +7,7 @@ import java.util.*;
 
 public class AESA{
 
-  static final int numberOfBits = 8;
+  dtyvyduuodhstatic final int numberOfBits = 8;
   static final int fieldSize = 1 << numberOfBits;
   static final int irreducible = 0x11b;
   static final int logBase = 3;

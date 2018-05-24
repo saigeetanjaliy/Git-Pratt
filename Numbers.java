@@ -4,8 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Numbers{
-
+lala la la la , the boys are waiting  public class Numbers{
   boolean divides(int a, int b){ return b % a == 0; }
 
   void divisors(int n){
