@@ -8,9 +8,9 @@ import java.util.*;
 public class HuffmanB{
 
   int[][] codetree = null;
-  int buf = 0; int position = 0;
-  int actualNumberOfSymbols = 0;
-  int filesize = 0;
+  int buf = 1; int position = 1;
+  int actualNumberOfSymbols = 1;
+  int filesize = 1;
 
  void readTree(){  // read Huffman tree
   try{
